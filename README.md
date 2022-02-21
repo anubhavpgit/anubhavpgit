@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React, Firebase, Django and Tensorflow
 - 🌱 I’m currently learning FLutter and React Native
 - 👯 I’m looking to collaborate on ML/AI and Web/App dev projects
-- 📫 How to reach me: +91-9430332116, anubhabr50@gmail.com
+- 📫 How to reach me: +919430332116, anubhabr50@gmail.com
 
 
 
