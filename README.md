@@ -1,5 +1,5 @@
-### Hi there 👋
-## I am ANUBHAB PATNAIK
+<p align=center>  ### Hi there 👋</p>
+# A software developer with excellent problem solving skills and a passion for AI & development, pursuing B.Tech in Computer Science and Engineering
 
 - 🔭 I’m currently working on React, Firebase, Django and Tensorflow
 - 🌱 I’m currently learning FLutter and React Native
