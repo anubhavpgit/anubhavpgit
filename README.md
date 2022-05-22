@@ -1,6 +1,6 @@
 #  Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=codebotx">
-### A software developer with excellent problem solving skills and a passion for AI & development, pursuing B.Tech in Computer Science and Engineering
+###  A software developer with excellent problem solving skills and a passion for AI & development, pursuing B.Tech in Computer Science and Engineering
 
 - 🔭 I’m currently working on React, Firebase, Django, Go, MongoDB and DDEX
 - 🌱 I’m currently learning FLutter and React Native & NodeJS
