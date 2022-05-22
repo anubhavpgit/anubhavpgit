@@ -1,7 +1,5 @@
 #  Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=codebotx">
 <h3> A software developer with excellent problem solving skills and a passion for AI & development, pursuing B.Tech in Computer Science and Engineering </h3>
-
 - 🔭 I’m currently working on React, Firebase, Django, Go, MongoDB and DDEX
 - 🌱 I’m currently learning FLutter and React Native & NodeJS
 - 👯 I’m looking to collaborate on ML/AI and Web/App dev projects
@@ -9,6 +7,8 @@
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
 
 Profile : [www.anubhavp.me](https://www.anubhavp.me)
+
+<img src="https://komarev.com/ghpvc/?username=codebotx">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codebotx&layout=compact&hide=html&theme=graywhite)
 
