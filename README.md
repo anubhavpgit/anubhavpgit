@@ -1,5 +1,6 @@
 #  Hi there 👋
 <h3> A software developer with excellent problem solving skills and a passion for AI & development, pursuing B.Tech in Computer Science and Engineering </h3>
+
 - 🔭 I’m currently working on React, Firebase, Django, Go, MongoDB and DDEX
 - 🌱 I’m currently learning FLutter and React Native & NodeJS
 - 👯 I’m looking to collaborate on ML/AI and Web/App dev projects
