@@ -1,5 +1,5 @@
 #  Hi there 👋
-<h3> A software engineer interested in problem solving skills with a passion for software development, pursuing B.Tech in Computer Science and Engineering </h3>
+<h3> A software engineer interested in problem solving with a passion for software development, pursuing B.Tech in Computer Science and Engineering </h3>
 
 - 🔭 I’m currently working on React, Firebase, Django, Go, MongoDB and DDEX
 - 🌱 I’m currently learning FLutter and React Native & NodeJS
