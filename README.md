@@ -7,7 +7,9 @@
 - 📫 How to reach me: +919430332116, anubhabr50@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
 
-Profile : [www.anubhavp.me](https://www.anubhavp.me)
+[Profile](https://www.anubhavp.me)
+
+[Blog](https://www.anubhavp.me/blog)
 
 <img src="https://komarev.com/ghpvc/?username=codebotx">
 
