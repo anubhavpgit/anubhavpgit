@@ -6,10 +6,8 @@
 - 👯 I’m looking to collaborate on ML/AI and Web/App dev projects
 - 📫 How to reach me: +919430332116, anubhabr50@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
-
-[Profile](https://www.anubhavp.me)
-
-[Blog](https://www.anubhavp.me/blog)
+* [Profile](https://www.anubhavp.me)
+* [Blog](https://www.anubhavp.me/blog)
 
 <img src="https://komarev.com/ghpvc/?username=codebotx">
 
