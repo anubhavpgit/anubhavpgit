@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React, Firebase, Django, Go, MongoDB and DDEX
 - 🌱 I’m currently learning FLutter and React Native & NodeJS
-- 👯 I’m looking to collaborate on ML/AI and Web/App dev projects
+- 👯 I’m looking to collaborate on anything that is interesting enough :)
 - 📫 How to reach me: +919430332116, anubhabr50@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
 * [Profile](https://anubhavp.me)
