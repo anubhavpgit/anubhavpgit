@@ -8,7 +8,7 @@
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
 * [Profile](https://anubhavp.me)
 * [Blog](https://anubhavp.me/blog)
-* [Squbix Github](https://www.github.com/anubhab-patnaik)
+* [Work Github](https://www.github.com/anubhab-patnaik)
 
 <img src="https://komarev.com/ghpvc/?username=codebotx">
 
