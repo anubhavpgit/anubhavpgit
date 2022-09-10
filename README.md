@@ -4,8 +4,8 @@
 - 👯 Loking to collaborate on anything that is interesting enough :)
 - 📫 Reach me: anubhabr50@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
-* [Profile](https://anubhavp.me)
-* [Blog](https://anubhavp.me/blog)
+* [Profile](https://anubhavp.dev)
+* [Blog](https://anubhavp.dev/blog)
 * [Work Github](https://www.github.com/anubhab-patnaik)
 
 <img src="https://komarev.com/ghpvc/?username=codebotx">
