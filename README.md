@@ -1,5 +1,5 @@
 #  Hi there 👋
-<h3> A software engineer interested in problem solving with a passion for software development, pursuing B.Tech in Computer Science and Engineering </h3>
+<h3> A software engineer interested in problem solving with a passion for software engineering and entrepreneurship </h3>
 
 - 👯 Loking to collaborate on anything that is interesting enough :)
 - 📫 Reach me: anubhabr50@gmail.com
