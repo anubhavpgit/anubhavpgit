@@ -1,8 +1,6 @@
 #  Hi there 👋
 <h3> A software engineer interested in problem solving with a passion for software engineering and entrepreneurship </h3>
 
-- 👯 Loking to collaborate on anything that is interesting enough :)
-- 📫 Reach me: anubhabr50@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
 * [Profile](https://anubhavp.dev)
 * [Blog](https://anubhavp.dev/blog)
