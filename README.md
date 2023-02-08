@@ -1,8 +1,9 @@
-A software engineer interested in problem solving with a passion for science, engineering and entrepreneurship
-* [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
+Socials:
+
 * [Profile](https://anubhavp.dev)
 * [Blog](https://anubhavp.dev/blog)
 * [Work Github](https://www.github.com/anubhab-patnaik)
+* [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/)
 
 <img src="https://komarev.com/ghpvc/?username=codebotx">
 
