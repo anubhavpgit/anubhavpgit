@@ -1,6 +1,4 @@
-#  Hi there 👋
-<h3> A software engineer interested in problem solving with a passion for science, engineering and entrepreneurship </h3>
-
+A software engineer interested in problem solving with a passion for science, engineering and entrepreneurship
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
 * [Profile](https://anubhavp.dev)
 * [Blog](https://anubhavp.dev/blog)
