@@ -5,8 +5,8 @@ Socials:
 * [Work Github](https://www.github.com/anubhab-patnaik)
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/)
 
-<img src="https://komarev.com/ghpvc/?username=codebotx">
+<img src="https://komarev.com/ghpvc/?username=fuzzymfx">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=codebotx&layout=compact&hide=html&theme=graywhite)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fuzzymfx&layout=compact&hide=html&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebotx&layout=compact&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzymfx&layout=compact&theme=graywhite)
