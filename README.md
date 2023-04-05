@@ -1,4 +1,4 @@
-Hi, I am Anubhab Patnaik, a soon to be CS grad from India. Interested in math, science, and engineering, I work with software engineering and try to solve real-world problems.
+Hi, I am Anubhab Patnaik, a soon to be CS grad engineer from India. Interested in math, science, and engineering, I work with software engineering and try to solve real-world problems.
 
 Socials:
 
