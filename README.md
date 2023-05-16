@@ -8,6 +8,6 @@ When not coding up a storm, I work with FOSS communities: I conduct workshops, h
 
 Besides, I love listening to music, watching sci-fi, sitcoms, fantasy and thriller, and reading books. I have recently started playing the guitar, and I have been reading the [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) by Liu Cixin. I love to travel and [click a lot of photos](https://instagram.com/anubhavclicks). I attend seminars on space exploration, life in space, and physics, participate in debates and MUNs and dabble in freelance graphic design. Whether geeky, nerdy, or creative, I'm always up for it!
 
-A [<img src="/assets/img/kofi.svg" alt="ko-fi" class="pb-1 mr-5 " width="18" height="22" style="margin-right: 2px;"> Sponsorship](https://github.com/sponsors/fuzzymfx/) page to keep my work sustainable. You can find me on [GitHub](https://github.com/fuzzymfx) and connect with me on [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/).
+A [<img src="https://anubhavp.dev/assets/img/kofi.svg" alt="ko-fi" class="pb-1 mr-5 " width="18" height="22" style="margin-right: 2px;"> Sponsorship](https://github.com/sponsors/fuzzymfx/) page to keep my work sustainable. You can find me on [GitHub](https://github.com/fuzzymfx) and connect with me on [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/).
 
 Say hi to me at <anubhabr50@gmail.com>.
