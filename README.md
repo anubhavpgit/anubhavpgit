@@ -6,6 +6,6 @@ I work with whatever piques my interest. I used to dabble in ML and now work wit
 
 When not coding up a storm, I work with FOSS communities: I conduct workshops, hackathons, and coding competitions. I built and maintain [cbrtl](https://cbrtl.github.io), a FOSS platform for students to showcase their work and get recognition for their work.
 
-A [<img src="https://anubhavp.dev/assets/img/kofi.svg" alt="ko-fi" style="padding: 0.5rem 1rem;" width="18" height="22" style="margin-right: 2px;"> Sponsorship](https://github.com/sponsors/fuzzymfx/) page to keep my work sustainable. You can find me on [GitHub](https://github.com/fuzzymfx) and connect with me on [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/).
+A [GitHub Sponsorship](https://github.com/sponsors/fuzzymfx/) page to keep my work sustainable. You can find me on [GitHub](https://github.com/fuzzymfx) and connect with me on [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/).
 
 Say hi to me at <anubhabr50@gmail.com>.
