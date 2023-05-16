@@ -1,5 +1,5 @@
 ---
-title: Anubhab Patnaik
+homepage: [anubhavp.dev](https://anubhavp.dev/)
 ---
 
 Hi, I am Anubhab Patnaik, a CS engineer from India. Interested in math, science, and engineering, I work with software engineering and try to solve real-world problems. This is a space where I publish my thoughts and ideas. I write about tech, science, and my life. [Here's my background](/background.html) and [here's what I am up to these days](/current.html).
