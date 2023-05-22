@@ -1,4 +1,4 @@
-[anubhavp.dev](https://anubhavp.dev/)
+[anubhavp.dev](https://anubhavp.dev/)  
 [resume](https://anubhavp.dev/resume.pdf)
 
 Hi, I am Anubhab Patnaik, a software engineer from India. [Here's my background](https://anubhavp.dev/background.html) and [here's what I am up to these days](https://anubhavp.dev/current.html).
