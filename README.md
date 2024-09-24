@@ -17,4 +17,4 @@ Feel free to DM if interested in working together. Some of my recent projects ha
 
 A [GitHub Sponsorship](https://github.com/sponsors/fuzzymfx/) page to keep my work sustainable. [Here's more about me](https://anubhavp.dev/about.html), and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik/).
 
-Say hi to me at <anubhabr50@gmail.com>.
+Reach out to me at <anubhabr50@gmail.com>.
