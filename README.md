@@ -1,7 +1,7 @@
 [anubhavp.dev](https://anubhavp.dev/)  
 [resume](https://anubhavp.dev/resume.pdf)
 
-Hi, I am Anubhab Patnaik, a Master's student in computer engineering at NYU from India. [Here's my background](https://anubhavp.dev/journey.html) and [here's what I am up to these days](https://anubhavp.dev/current.html). I used to dabble in ML, web, mobile, and CMD applications. Now, I am mostly involved in building high-performance scalable systems, distibuted applications and low-level compilers. Here are a couple of projects that I am planning to take up sometime soon:
+Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer engineering at NYU from India. [Here's my background](https://anubhavp.dev/journey.html) and [here's what I am up to these days](https://anubhavp.dev/current.html). I used to dabble in ML, web, mobile, and CMD applications. Now, I am mostly involved in building high-performance scalable systems, distibuted applications and low-level compilers. Here are a couple of projects that I am planning to take up sometime soon:
 
 - An image/audio analyzer/decomposer to convert svg to png and vice-versa; decomposing periodic functions using fourier series approximation
 - A (short MVP) C/C++ compiler for RISC-V.
