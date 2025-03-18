@@ -8,7 +8,7 @@ Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer en
 - A consistent, memory-safe fast, read/write distributed database built in Go/Rust
   - A distributed caching mechanism like [docstore](https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/) or [memcached](https://memcached.org/)
 - Getting hands dirty with LLM Ops
-  -  Building a custom AI assisted nutrition manager (A purely personal project)
+  -  Building a custom AI assisted nutrition manager: [Jude](https://anubhavp.dev/blog/heyjude)
 
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
