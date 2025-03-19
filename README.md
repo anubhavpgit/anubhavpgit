@@ -9,6 +9,7 @@ Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer en
   - A distributed caching mechanism like [docstore](https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/) or [memcached](https://memcached.org/)
 - Getting hands dirty with LLM Ops
   -  Building a custom AI assisted nutrition manager: [Jude](https://anubhavp.dev/blog/heyjude)
+- A MVP of a neural sensor hardware to capture finger movements to be used as an input device.
 
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
