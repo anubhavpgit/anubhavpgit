@@ -12,7 +12,7 @@ Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer en
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
 - [Game of Life](https://anubhavp.dev/blog/gameoflife.html)- Implementing John Conway's Game of Life and explaining building CPU units using it
-- [A RISCV machine code interpreter](https://anubhavp.dev/blog/yatch)-  a pipelined processor executing machine code instructions with hazard handling and memory safety
+- [A RISCV machine code interpreter](https://anubhavp.dev/blog/hacktoberfest)-  a pipelined processor executing machine code instructions with hazard handling and memory safety
 - [A RISCV machine code decoder](https://anubhavp.dev/barney)-  a simple machine code to assembly decoder that converts machine code to assembly instructions
 - Improvements in [Zuzu](https://github.com/fuzzymfx/zuzu) - Imrpoving perfromance handling and added banner images support in the custom static site generator for my site ([anubhavp.dev](https://anubhavp.dev/))
 - [Dough](https://github.com/fuzzymfx/dough): a rich, modular, and customisable content generator written in Rust.
