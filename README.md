@@ -10,6 +10,7 @@ Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer en
 
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
+- [Fireside](https://anubhavpgit/fireside) - An encrypted, decentralized chat app built with GunJS & Svelte, enabling low-latency, secure, and ephemeral messaging. (Live Demo)
 - [Ferry](https://github.com/anubhavp-dev/ferry) - A C compiler for RISC-V, capable of compiling the code for a subset of C language (enough to solve LeetCode!)
 - [Game of Life](https://anubhavp.dev/blog/gameoflife.html)- Implementing John Conway's Game of Life and explaining building CPU units using it
 - [A RISCV machine code interpreter](https://anubhavp.dev/blog/hacktoberfest)-  a pipelined processor executing machine code instructions with hazard handling and memory safety
