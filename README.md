@@ -8,7 +8,7 @@ Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer en
 
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
-- A MVP of a neural sensor hardware to capture finger movements to be used as an input device.
+- Orion: A MVP of a neural sensor hardware to capture finger movements to be used as an input device. (The name is inspired by the motivation to build it- Meta's orion glasses)
 - [Fireside](https://anubhavpgit/fireside) - An end-to-end encrypted, decentralized chat app built with GunJS & Svelte, enabling low-latency, secure, and ephemeral messaging. - [Live](https://anubhavp.dev/fireside)
 - [Ferry](https://github.com/anubhavp-dev/ferry) - A C compiler for RISC-V, capable of compiling the code for a subset of C language (enough to solve LeetCode!)
 - [Game of Life](https://anubhavp.dev/blog/gameoflife.html)- Implementing John Conway's Game of Life and explaining building CPU units using it
