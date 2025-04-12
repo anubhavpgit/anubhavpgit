@@ -8,13 +8,13 @@ Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer en
 
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
+- Improvements in [Zuzu](https://github.com/anubhavp-dev/zuzu) - Improving perfromance using consistent caching and reduced build times. UX imprivements include adding a custom prefix-fuzzy search engine and banner images support in the custom static site generator for my site ([anubhavp.dev](https://anubhavp.dev/))
 - Orion: A MVP of a neural sensor hardware to capture finger movements to be used as an input device. (The name is inspired by the motivation to build it- Meta's orion glasses)
 - [Fireside](https://anubhavpgit/fireside) - An end-to-end encrypted, decentralized chat app built with GunJS & Svelte, enabling low-latency, secure, and ephemeral messaging. - [Live](https://anubhavp.dev/fireside)
 - [Ferry](https://github.com/anubhavp-dev/ferry) - A C compiler for RISC-V, capable of compiling the code for a subset of C language (enough to solve LeetCode!)
 - [Game of Life](https://anubhavp.dev/blog/gameoflife.html)- Implementing John Conway's Game of Life and explaining building CPU units using it
 - [A RISCV machine code interpreter](https://anubhavp.dev/blog/hacktoberfest)-  a pipelined processor executing machine code instructions with hazard handling and memory safety
 - [A RISCV machine code decoder](https://anubhavp.dev/barney)-  a simple machine code to assembly decoder that converts machine code to assembly instructions
-- Improvements in [Zuzu](https://github.com/anubhavp-dev/zuzu) - Imrpoving perfromance handling and added banner images support in the custom static site generator for my site ([anubhavp.dev](https://anubhavp.dev/))
 - [Dough](https://github.com/anubhavp-dev/dough): a rich, modular, and customisable content generator written in Rust.
 - A full-fledged telegram and discord bot to mimic the entire functionality set of [datingAi](datingai.pro) with optimzed API calls limiting exhaustion.
 Also Looking for maintainers for [Resoc](https://resoc.in) ( A basic React webpage to host notes for my undergrad college from SIT, BBS).
