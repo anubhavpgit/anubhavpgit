@@ -4,7 +4,7 @@
 Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer engineering at NYU from India. [Here's my background](https://anubhavp.dev/journey.html) and [here's what I am up to these days](https://anubhavp.dev/current.html). I am mostly involved in building high-performance low-level and scalable systems and distibuted applications. Here are a couple of projects that I am planning to take up sometime soon:
 
 - An image/audio analyzer/decomposer to convert svg to png and vice-versa; decomposing periodic functions using fourier series approximation
-- A consistent, memory-safe fast, read/write distributed database built in Go/Rust that implements a distributed caching mechanism like [docstore](https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/) or [memcached](https://memcached.org/)
+- A tiny GPU kernel enough to be used on Apple Silicon for LLM inference, using llama.cpp
 
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
