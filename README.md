@@ -11,7 +11,7 @@ Feel free to DM if interested in working together. Some of my recent projects ha
 - Orion: A MVP of a neural sensor hardware to capture finger movements to be used as an input device. (The name is inspired by the motivation to build it- Meta's orion glasses)
 - [Fireside](https://anubhavpgit/fireside) - An end-to-end encrypted, decentralized chat app built with GunJS & Svelte, enabling low-latency, secure, and ephemeral messaging. - [Live](https://anubhavp.dev/fireside)
 - [Ferry](https://github.com/anubhavp-dev/ferry) - A C compiler for RISC-V, capable of compiling the code for a subset of C language (enough to solve LeetCode!)
-- [A RISCV machine code interpreter](https://anubhavp.dev/blog/hacktoberfest)-  a pipelined processor executing machine code instructions with hazard handling and memory safety
+- [A RISCV machine code interpreter](https://anubhavp.dev/blog/hacktoberfest)-  a pipelined processor executing machine code instructions with hazard handling and memory safety  
 Also Looking for maintainers for [Resoc](https://resoc.in) ( A basic React webpage to host notes for my undergrad college from SIT, BBS).
 
 A [GitHub Sponsorship](https://github.com/sponsors/muttonbiryani69/) page to keep my work sustainable. [Here's more about me](https://anubhavp.dev/about.html), and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik/).
