@@ -1,13 +1,13 @@
 [anubhavp.dev](https://anubhavp.dev/)  
 [resume](https://anubhavp.dev/resume.pdf)
 
-Hi, I am Anubhab Patnaik, a SE from India, and a Master's student in computer engineering at NYU from India. [Here's my background](https://anubhavp.dev/journey.html) and [here's what I am up to these days](https://anubhavp.dev/current.html). I am mostly involved in building high-performance low-level and scalable systems and distibuted applications. Here are a couple of projects that I am planning to take up sometime soon:
+Hi, I am Anubhab Patnaik, a software engineer living in New York, from India. [Here's my background](https://anubhavp.dev/journey.html) and [here's what I am up to these days](https://anubhavp.dev/current.html). I am mostly involved in building high-performance low-level and scalable systems and distibuted applications. Here are a couple of projects that I am planning to take up sometime soon:
 
-- An image/audio analyzer/decomposer to convert svg to png and vice-versa; decomposing periodic functions using fourier series approximation
 - A tiny GPU kernel enough to be used on Apple Silicon for LLM inference, using llama.cpp
 
 Feel free to DM if interested in working together. Some of my recent projects have been:
 
+- An image/audio analyzer/decomposer to convert svg to png and vice-versa; decomposing [periodic functions using fourier series approximation](https://anubhavp.dev/blog/fourier)
 - Orion: A MVP of a neural sensor hardware to capture finger movements to be used as an input device. (The name is inspired by the motivation to build it- Meta's orion glasses)
 - [Fireside](https://anubhavpgit/fireside) - An end-to-end encrypted, decentralized chat app built with GunJS & Svelte, enabling low-latency, secure, and ephemeral messaging. - [Live](https://anubhavp.dev/fireside)
 - [Ferry](https://github.com/anubhavp-dev/ferry) - A C compiler for RISC-V, capable of compiling the code for a subset of C language (enough to solve LeetCode!)
