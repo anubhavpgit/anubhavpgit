@@ -14,4 +14,4 @@ A couple of projects that I am taking up and some of my recent projects:-
 
 [More ->](https://anubhavp.dev/about)
 
-Reach out @ <anubhabr50@gmail.com>.
+Reach out @ <anubhavp@duck.com>.
